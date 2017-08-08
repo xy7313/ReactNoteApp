@@ -1,0 +1,31 @@
+.board {
+  background-color: #d4e5c4;
+  height: 100%;
+  padding: 20px;
+  margin: 20px;
+}
+#container .board .commentContainer {
+  background: #f4f6dd;
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin: 8px;
+  padding: 8px;
+}
+#container .board .commentContainer .comment {
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+#container .board .commentContainer button {
+  margin-right: 6px;
+}
+#container .board .commentContainer textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.btn-info {
+  margin: auto;
+  margin-top:12px;
+  display: block;
+}
